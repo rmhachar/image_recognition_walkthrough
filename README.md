@@ -12,13 +12,13 @@ This folder contains a script for reading images from Google Image search. Credi
 
 https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
 
-Javascript:
+### Javascript:
 
 The .js file contains code that can be input into the console of a Google Image search to download image links automatically.
 
 	NOTE: Use Chrome, not Firefox.
 
-Python:
+### Python:
 
 The .py file contains a script that when run will download the images from the links provided. To run the script, cd into the folder and run:
 
